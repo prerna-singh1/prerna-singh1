@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Power BI Dashboarding, Data Cleaning using Pandas and Database interaction with MySQL
 - 📫 How to reach me prerna.ce@gmail.com
 - 😄 Tech Stack: Python, SQL, Pandas, Power BI, Excel, Git, NumPy and Basic of Matplotlib, Seaborn, Scikit-Learn
-- ⚡ i love to solve all hackorrank and leetcode problems :
+- ⚡ i like to solve all hackorrank and leetcode problems :
 -  Here attached a link of leet code - https://leetcode.com/u/user4687JQ/
 -  Here attached a link of hackor rank - https://www.hackerrank.com/profile/prerna_ce
   
